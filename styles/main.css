@@ -393,3 +393,8 @@ hr {
 }
 
 
+input:invalid {
+     background-color: #FFE4E1 ;
+     border:5px solid #FF0000;
+}
+
