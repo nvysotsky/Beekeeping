@@ -356,11 +356,13 @@ hr {
 
 .form fieldset {
     border: 1px solid rgb(70, 70, 70);
+    border-radius:15px;
     padding: 0 15px;
+    margin:1em;
 }
 
 .form button {
-    border: none;
+    border: 2px solid  #2F4F4F;
     padding: .5em 2em;  
     margin-top: 1em;
     text-transform: uppercase;
@@ -368,6 +370,7 @@ hr {
     background-color:  #e79433;
     color: #f4f3f2;
     font-family: "roboto";
+    border-radius:10px;
 }
 
 .form button:hover {
